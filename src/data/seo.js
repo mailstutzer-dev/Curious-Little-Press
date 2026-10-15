@@ -6,7 +6,7 @@ const SITE = 'Curious Little Press'
 
 // Live address of the site. If a custom domain is added later, change it
 // here, in index.html, and in public/robots.txt + public/sitemap.xml.
-export const SITE_URL = 'https://curiouslittlepress.netlify.app'
+export const SITE_URL = 'https://curiouslittlepress.pages.dev'
 
 export const PAGE_META = {
   home: {

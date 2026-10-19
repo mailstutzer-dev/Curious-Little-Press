@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://curiouslittlepress.web.app/sitemap.xml 
+Sitemap: https://curiouslittlepress.pages.dev/sitemap.xml 
